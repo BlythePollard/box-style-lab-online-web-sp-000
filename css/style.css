@@ -32,7 +32,7 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
-   border: 1px solid #aaaa00;
+  border: 1px solid #aaaa00;
   box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
    box-sizing: border-box;
 }
@@ -40,6 +40,8 @@ h4 {
 .dubious {
   background-color: #dd4444;
   box-sizing: border-box;
+  border: 1px solid #aaaa00;
+  box-shadow:  -1px 1px #aaaa00, -2px 2px #aaaa00, -3px 3px #aaaa00, -4px 4px #aaaa00, -5px 5px #aaaa00;
 }
 
 .column {
