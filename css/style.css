@@ -39,7 +39,7 @@ h4 {
 }
 
 .dubious {
-  background-color: #dd4444;
+  background: linear-gradient(to bottom, #dd4444, );
   box-sizing: border-box;
   border: 1px solid #dd4444;
   box-shadow:  -1px 1px #b30000, -2px 2px #b30000, -3px 3px #b30000, -4px 4px #b30000, -5px 5px #b30000;
